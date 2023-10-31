@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Lord Darth Sidious'
 
-version '2.1'
+version '1.0'
 
 shared_scripts {
     'shared/shared.lua',
